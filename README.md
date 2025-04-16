@@ -1,4 +1,4 @@
-We had a course called Computer Network Attack which had a project which is questioned in the exam. We got the file 24 hours before exam which we had to analyze and get the answers ready before the exam starts. This is the input we had to crack and generate our own password that is taken in as valid by the program. 
+We had a course titled Computer Network Attack that included a project component later assessed in the exam. We received a file 24 hours prior to the exam, which we had to analyze and prepare answers for before it began. The task involved reverse-engineering the input to generate our own password that would be accepted as valid by the program.
 
 
 
