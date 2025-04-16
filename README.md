@@ -29,5 +29,5 @@ First I opened the file with Ghidra, and see if I can find interesting functions
 
 Inside this I saw a few functions that caught my attention one being this function that contains the whole algorithm for how the password works. 
 
-<img width="600" alt="Function the whole logic" src="https://github.com/user-attachments/assets/9d0a46de-19eb-49a1-9924-c321ec5b6a8f" />
+<img width="700" alt="Function the whole logic" src="https://github.com/user-attachments/assets/9d0a46de-19eb-49a1-9924-c321ec5b6a8f" />
 
