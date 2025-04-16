@@ -31,3 +31,20 @@ Inside this I saw a few functions that caught my attention one being this functi
 
 <img width="700" alt="Function the whole logic" src="https://github.com/user-attachments/assets/9d0a46de-19eb-49a1-9924-c321ec5b6a8f" />
 
+I went through all the functions used in here and got the conclusion that 1. They are using a separate function to calculate something, use that calculation to get an result which grants you access. The code splits the input into segments, processes each phase, it has 2 functions which is a ASCII Value. 
+
+<img width="650" alt="Function ASCII" src="https://github.com/user-attachments/assets/766c8415-49b9-4d73-b36d-d09bbb90002d" />
+
+This is ASCII value of 470, meaning that we can generate one value of 470, and the other one being 488
+
+<img width="500" alt="Function ASCII Part 2" src="https://github.com/user-attachments/assets/e66fd2d6-ade0-4138-85dd-eed9640f9d3a" />
+
+These two are then added side by side, so its total of 12 numbers, 6 on each part.
+
+After calculating the password, I tested it and was in the system :-D
+
+<img width="650" alt="Proof of backdoor (1)" src="https://github.com/user-attachments/assets/97c7e926-1d77-4112-bd56-0cd72a2b4bac" />
+
+
+
+
